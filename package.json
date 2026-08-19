@@ -1,0 +1,26 @@
+{
+  "name": "purrfecet",
+  "version": "0.0.11",
+  "description": "Collection of tools for extracting and visualising codebase metadata.",
+  "author": "Noodlestan Collective",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "npm@10.2.3",
+  "workspaces": [
+    "libs/*"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "clean": "turbo run build:clean",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "lint:fix": "turbo run lint:fix",
+    "test": "turbo run test",
+    "ci": "turbo run ci",
+    "dev": "turbo run dev --ui tui"
+  },
+  "devDependencies": {
+  }
+}
