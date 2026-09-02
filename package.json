@@ -1,7 +1,7 @@
 {
   "name": "purrfect",
   "version": "0.0.11",
-  "description": "Collection of tools for extracting and visualising codebase metadata.",
+  "description": "Collection of composable tools and abstractions for building metadata extraction pipelines, aggregations, indexes, visualizations, and metadata endpoints.",
   "author": "Noodlestan Collective",
   "license": "MIT",
   "private": true,

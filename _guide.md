@@ -1,6 +1,10 @@
-# Purrfect
+# Guide: Purrfect
 
-Manage the Purrception, Purrtrait, and Purrpose projects.
+> Host and manage the Purrfect project roadmap, and docs and demo applications.
+
+Monorepo containing the Purrfect coordination roadmap, docs and demo applications, and shared tooling.
+
+Umbrella project; Coordinates other projects with Workflow: Roadmapping from one project-wide roadmap.
 
 ## Recommended Reading
 

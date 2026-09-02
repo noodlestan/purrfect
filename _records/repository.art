@@ -2,9 +2,9 @@
 
 ## Repository: Purrfect
 
-**Purpose:** Host and manage the Purrfect packages and backlog.
+**Purpose:** Host and manage the Purrfect project roadmap, and docs and demo applications.
 
-**Description:** Collection of tools for extracting and visualising codebase metadata.
+**Description:** Monorepo containing the Purrfect coordination roadmap, docs and demo applications, and shared tooling.
 
 **Owner:** Project: Purrfect
 

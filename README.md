@@ -1,12 +1,14 @@
-# @purrfect
+# Purrfect
 
-> Collection of tools for extracting and visualising codebase metadata.
+> Extract, compose, and expose metadata to support the discovery, interpretation, and operation of artefacts.
+
+Collection of composable tools and abstractions for building metadata extraction pipelines, aggregations, indexes, visualizations, and metadata endpoints.
 
 ## Repositories
 
-- [noodlestan/purrception](https://github.com/noodlestan/purrception) — Extract docs and structured metadata from codebases.
-- [noodlestan/purrpose](https://github.com/noodlestan/purrpose) — Single-purpose utilities for in-browser code compilation and documentation tooling.
-- [noodlestan/purrtrait](https://github.com/noodlestan/purrtrait) — Code rendering and layout system for data extracted from source code..
+- [noodlestan/purrception](https://github.com/noodlestan/purrception) — Extract and compose metadata from source code and artefacts.
+- [noodlestan/purrtrait](https://github.com/noodlestan/purrtrait) — Transform, render and visualize metadata about source code and artefacts.
+- [noodlestan/purrpose](https://github.com/noodlestan/purrpose) — Single-purpose utilities for in-browser transformations: JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
 
 ## License
 
