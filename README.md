@@ -10,6 +10,15 @@ Collection of composable tools and abstractions for building metadata extraction
 - [noodlestan/purrtrait](https://github.com/noodlestan/purrtrait) — Transform, render and visualize metadata about source code and artefacts.
 - [noodlestan/purrpose](https://github.com/noodlestan/purrpose) — Single-purpose utilities for in-browser transformations: JSX/TSX compilation, SolidJS JSX transform presets, and Shiki-based syntax highlighting.
 
+## Development
+
+### Scripts
+
+- **$** `npm run turbo build` — Build all packages.
+- **$** `npm run turbo test` — Run tests in all packages.
+- **$** `npm run turbo lint` — Lint all packages (Prettier + ESLint).
+- **$** `npm run ci` — Run all CI scripts in all packages.
+
 ## License
 
 MIT License
