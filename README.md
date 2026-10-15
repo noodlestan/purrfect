@@ -4,6 +4,8 @@
 
 Collection of composable tools and abstractions for building metadata extraction pipelines, aggregations, indexes, visualizations, and metadata endpoints.
 
+**Keywords:** metadata, extraction, visualization, aggregation, indexing.
+
 ## Repositories
 
 - [noodlestan/purrception](https://github.com/noodlestan/purrception) — Extract and compose metadata from source code and artefacts.
